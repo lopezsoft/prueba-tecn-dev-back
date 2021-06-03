@@ -1,0 +1,10 @@
+[{
+    "DATABASE_NAME"         : "bdconexion",
+    "DATABASE_HOST"         : "51.77.67.96",
+    "DATABASE_USER"         : "juez",
+    "DATABASE_PASSWORD"     : "camila",
+    "DATABASE_PORT"         : 5432,
+    "SERVER_PORT"           : 3003,
+    "SSL"                   : false,
+    "PRIVATE_KEY"           : "s_N9wQREWMAXXLfbui6GUmDFjeb6XGYUQUFdrY80hdKKWW2n_DojmLKbAz1MuEPkXuZ2We5xeXMG5PiANvK5wab-FDXWkgwhdqhEg3rTgq_r_34Sbo5SHB5GE-2rtksPcr9kvalfSEfa7M9HkDBJL6NRnjEXTiLKcm_LNAdjvPVZEnfT_rJAmmgdJgXuUO5w2vVHlZg2QqxxEVC5oMNoGO0HsYUhmkHPmsp5kv8xSbZsmkz8VtIoOBFaT0UZUNs0hbNAvWADu-a42J_c2SC4YY461oFSkaCIx6XTKdCYBKbhX9dxnUIMzS5uC79fQqVXI01rT4rzExum9tmn0M3nrQ"
+}]
